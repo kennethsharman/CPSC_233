@@ -1,0 +1,9 @@
+Q: Why don't we have to worry about privacy leaks with respect to the accountHolder instance
+variable in BankAccount?
+
+Answer:
+The variable accountHolder in the class BankAccount is not vulnerable to privacy leaks because
+there is no setter methods in the Customer class which the variable accountHolder is calling 
+to. Once a variable has been set by the constructor method, they cannot be changed later. The
+locations of the instance varaibles within the Customer class cannot be changed from the other
+classes and no other classes or methods can point to the same location of the instance variables.
