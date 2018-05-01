@@ -2,8 +2,8 @@ Team Assignments - total of 10
 
 Team Members:
 
-Kenneth Sharman
+  Kenneth Sharman
 
-Bruin Kunnas
+  Bruin Kunnas
 
-Garrett Dziuba
+  Garrett Dziuba
