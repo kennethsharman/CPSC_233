@@ -1,4 +1,4 @@
-$$$Team Assignments - total of 10$$$
+Team Assignments - total of 10
 
 Team Members:
 
