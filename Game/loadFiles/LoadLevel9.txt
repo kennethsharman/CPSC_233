@@ -1,6 +1,0 @@
-9 90 13 3 136.0
-#Level
-#Health
-#Clock count
-#Potions
-#XLocation
