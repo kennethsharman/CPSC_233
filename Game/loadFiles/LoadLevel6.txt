@@ -1,0 +1,6 @@
+6 100 50 0 136.0
+#Level
+#Health
+#Clock count
+#Potions
+#XLocation

@@ -1,0 +1,6 @@
+3 100 99 3 589.0
+#Level
+#Health
+#Clock count
+#Potions
+#XLocation
